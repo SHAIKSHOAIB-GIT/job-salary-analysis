@@ -92,9 +92,9 @@ LIMIT 10;
 Add screenshots here:
 
 ### Salary by Company
-![Salary Chart]("charts\Picture1.png")
+![Salary Chart]("charts/Picture1.png")
 
-### Experience vs Salary
+### Experience vs  Fresher Salary
 ![Experience Chart](charts/Picture2.png)
 
 ### Role-wise Average Salary
